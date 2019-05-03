@@ -45,7 +45,6 @@ public class BlockchainServer extends Application {
                     genesis.mineBlock(blockchain.difficulty);
                     blockchain.blocks.add(genesis);
 
-
                     Block seed1 = new Block(1, System.currentTimeMillis(), genesis.getHash(), getResources().getString(R.string.seed1_data), "https://firebasestorage.googleapis.com/v0/b/android-blockchain.appspot.com/o/image_00005.jpg?alt=media&token=3d87f1cc-d0f6-47fd-9e98-ab8978bec713");
                     seed1.mineBlock(blockchain.difficulty);
                     if(blockchain.isValidNewBlock(seed1, blockchain.latestBlock())

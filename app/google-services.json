@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484080693961",
+    "firebase_url": "https://blockchainandroid-master.firebaseio.com",
+    "project_id": "blockchainandroid-master",
+    "storage_bucket": "blockchainandroid-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484080693961:android:a694ce4cc825054b",
+        "android_client_info": {
+          "package_name": "com.example.annmargaret.androidblockchain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484080693961-0mlckojcujgb80eufpct2k31dco91bdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.annmargaret.androidblockchain",
+            "certificate_hash": "a2cf167c7d0df105a8eb04f0f8817f01d7c2f2c2"
+          }
+        },
+        {
+          "client_id": "484080693961-j6tnhj9gtdgohj30u6moth0r4np8pomh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKq2OoP3kcNxLyQUfcCPauJ8PwiUwSe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484080693961-j6tnhj9gtdgohj30u6moth0r4np8pomh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
